@@ -1,1 +1,24 @@
-body{}
+body{
+    background-color: #ffffff;
+    font-family: Roboto ; Raleway;
+    color: var(--NAVY-BLUE, #2E2F42);
+}
+logo{
+    display: inline-flex;
+height: 24px;
+align-items: center;
+flex-shrink: 0;
+
+color: #4D5AE5;
+text-decoration: none;
+  }
+  href{
+    text-decoration: none;
+}
+.site-nav .link {
+    font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+  }
