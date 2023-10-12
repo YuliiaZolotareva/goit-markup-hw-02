@@ -7,13 +7,11 @@ a {
 }
 button {
     cursor:pointer;
-    border-radius: 4px;
 background: var(--IRIS, #4D5AE5);
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 body {
-    font-family: 'Roboto', 'Raleway', sans-serif;
-    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: 'Roboto', sans-serif;
+    color:#434455
     background: #FFFFFF;
 }
 .list {
@@ -27,7 +25,6 @@ body {
 .menu-link:active {
     color: var(--OCEAN, #404BBF);
     text-decoration: underline;
-    border-radius: 2px;
     
 }
 .logo-span {
@@ -43,10 +40,10 @@ color: var(--IRIS, #4D5AE5);
 font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height:1.16; 
+line-height:1.17; 
 letter-spacing: 0.54px;
 text-transform: uppercase;
-color: var(--NAVY-BLUE, #2E2F42);
+color:#4d5ae5
 }
 .menu-link {
     font-size: 16px;
