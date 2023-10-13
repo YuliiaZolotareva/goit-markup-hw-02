@@ -52,7 +52,7 @@ color:#4d5ae5
     font-weight: 500;
     line-height: 1.5; 
     letter-spacing: 0.02em;
-    color:  #2E2F42;
+    color: #434455;
 }
 .contacts-link {
 color: #434455);
@@ -88,10 +88,10 @@ letter-spacing: 0.02em;
 color:  #FFFFFF;
 }
 .button-main {
+ line-height: 1.5;
 font-size: 16px;
 font-weight: 500;
 font-family: "Roboto", sans-serif
-line-height: 1.5; 
 letter-spacing: 0.04em;
 color:  #FFFFFF;
 }
@@ -107,6 +107,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2; 
 letter-spacing: 0.02em;
+color:#2e2f42; 
 }
 
 .benefits-description {
@@ -114,9 +115,6 @@ letter-spacing: 0.02em;
     line-height: 1.5; 
     letter-spacing: 0.02em;
     color: #434455;
-}
-.benefits-name {
-   color:#2e2f42; 
 }
 /*-----------------/BENEFITS STYLES--------------*/
 
